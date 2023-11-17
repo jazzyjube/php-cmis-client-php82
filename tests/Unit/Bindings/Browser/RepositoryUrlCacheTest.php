@@ -12,7 +12,7 @@ namespace Dkd\PhpCmis\Test\Unit\Bindings\Browser;
 
 use Dkd\PhpCmis\Bindings\Browser\RepositoryUrlCache;
 use Dkd\PhpCmis\Constants;
-use League\Url\Url;
+use League\Uri\Uri;
 
 /**
  * Class RepositoryUrlCacheTest
