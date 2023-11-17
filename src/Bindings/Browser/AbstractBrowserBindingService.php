@@ -35,7 +35,7 @@ use GuzzleHttp\Client;
 use GuzzleHttp\Exception\RequestException;
 use GuzzleHttp\Psr7\Response;
 use GuzzleHttp\Stream\StreamInterface;
-use League\Uri\Uri;
+use League\Url\Url;
 use Psr\Http\Message\ResponseInterface;
 use function basename;
 use function is_array;

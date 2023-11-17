@@ -49,7 +49,7 @@ use GuzzleHttp\Message\RequestInterface;
 use GuzzleHttp\Psr7\Request;
 use GuzzleHttp\Psr7\Response;
 use GuzzleHttp\Client;
-use League\Uri\Uri;
+use League\Url\Url;
 use PHPUnit_Framework_MockObject_MockObject;
 
 /**

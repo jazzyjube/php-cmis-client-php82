@@ -12,7 +12,7 @@ namespace Dkd\PhpCmis\Bindings\Browser;
 
 use Dkd\PhpCmis\Constants;
 use Dkd\PhpCmis\Exception\CmisInvalidArgumentException;
-use League\Uri\Uri;
+use League\Url\Url;
 
 /**
  * URL cache for repository and root URLs.
@@ -152,7 +152,7 @@ class RepositoryUrlCache
     }
 
     /**
-     * Build an instance of \League\Uri\Uri for the given url
+     * Build an instance of \League\Url\Url for the given url
      *
      * @param string $url
      * @return Url

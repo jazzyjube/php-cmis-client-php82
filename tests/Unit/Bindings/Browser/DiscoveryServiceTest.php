@@ -16,7 +16,7 @@ use Dkd\PhpCmis\DataObjects\ObjectData;
 use Dkd\PhpCmis\DataObjects\ObjectList;
 use Dkd\PhpCmis\Enum\IncludeRelationships;
 use GuzzleHttp\Psr7\Response;
-use League\Uri\Uri;
+use League\Url\Url;
 use PHPUnit_Framework_MockObject_MockObject;
 
 /**

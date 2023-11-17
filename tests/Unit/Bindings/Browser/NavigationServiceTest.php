@@ -15,7 +15,7 @@ use Dkd\PhpCmis\Constants;
 use Dkd\PhpCmis\Data\ExtensionDataInterface;
 use Dkd\PhpCmis\DataObjects\ObjectData;
 use Dkd\PhpCmis\Enum\IncludeRelationships;
-use League\Uri\Uri;
+use League\Url\Url;
 use PHPUnit_Framework_MockObject_MockObject;
 
 /**
