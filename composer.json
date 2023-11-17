@@ -17,10 +17,10 @@
         "php": ">=7.0.0",
         "dkd/enumeration": "~0.1",
         "dkd/php-populate": "^1",
-        "guzzlehttp/guzzle": "^6",
+        "guzzlehttp/guzzle": "^6|^7",
         "guzzlehttp/streams": "^3",
         "doctrine/cache": "^1",
-        "league/url": "^2|^3"
+        "league/uri": "^7"
     },
     "require-dev": {
         "squizlabs/php_codesniffer": "~2.2",
